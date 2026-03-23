@@ -14,7 +14,9 @@ Run the Kaggle notebook cells in order.
 See notebook for detailed setup instructions.
 
 ## Results
-[Add your generated images here]
+<img width="768" height="1024" alt="image (1)" src="https://github.com/user-attachments/assets/0bf50162-f499-4b76-a64a-361c52ecacd9" />
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/694ff08c-c7ab-4963-85af-566b35ef3109" />
+
 
 ## Research Focus
 - Pattern fidelity evaluation
